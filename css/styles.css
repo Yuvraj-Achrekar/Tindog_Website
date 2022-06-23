@@ -187,7 +187,12 @@ p{
 
 @media (max-width:990px){
 
-  #title{
+ /* #title{
+    text-align: center;
+  } */
+
+  #title .container-fluid{
+    padding: 3% 15% 7%;
     text-align: center;
   }
 
